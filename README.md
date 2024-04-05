@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prit nadoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prit nadoda" height="30" width="40" /></a>
-<a href="https://fb.com/prit nadoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prit nadoda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prit-nadoda-bb8709285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prit-nadoda-bb8709285" height="30" width="40" /></a>
+<a href="https://fb.com/prit-nadoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prit-nadoda" height="30" width="40" /></a>
 <a href="https://instagram.com/prit_nadoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prit_nadoda" height="30" width="40" /></a>
 </p>
 
