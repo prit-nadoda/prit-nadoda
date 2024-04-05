@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prit Nadoda</h1>
 <h3 align="center">Passionate About Back-end Development | Python Development | Graphic Designing</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 💬 Ask me about **NodeJs, ExpressJs**
 
