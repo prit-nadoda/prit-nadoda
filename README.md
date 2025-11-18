@@ -23,8 +23,7 @@ Welcome to my GitHub! I’m a full-stack web developer with a strong focus on **
 `Bootstrap` (Basic) · `Tailwind CSS` (Basic)
 
 **AI, Automation & Tooling**
-`Python (OOP)` · `AI APIs` · `Gemini API` · `Automation Bots` · `Stripe` · `OAuth` · `Nodemailer`
-`Creatomate` · `News API` · `Data handling & processing`
+`Python (OOP)` · `AI APIs` · `Gemini API` · `Automation Bots` · `Stripe` · `OpenAI | Perplexity API | Gemini API` · `AI Function/Tool calling | Vector embeddings & Ingesting | RAG Pipelines` · `Big Data handling & processing` 
 
 **CS Fundamentals**
 `C` · `C++` · `Java (Basic)` · `DSA`: Linked Lists, Stacks, Queues
